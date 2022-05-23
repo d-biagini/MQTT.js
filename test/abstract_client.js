@@ -11,7 +11,6 @@ const Store = require('./../lib/store')
 const assert = require('chai').assert
 const ports = require('./helpers/port_list')
 const serverBuilder = require('./server_helpers_for_client_tests').serverBuilder
-require('process')
 
 module.exports = function (server, config) {
   const version = config.protocolVersion || 4

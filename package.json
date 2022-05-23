@@ -69,7 +69,7 @@
     "inherits": "^2.0.3",
     "lru-cache": "^6.0.0",
     "minimist": "^1.2.6",
-    "mqtt-packet": "https://github.com/d-biagini/mqtt-packet",
+    "mqtt-packet": "https://github.com/d-biagini/mqtt-packet#v6.8.0-browser-fix",
     "number-allocator": "^1.0.9",
     "process": "^0.11.10",
     "pump": "^3.0.0",
